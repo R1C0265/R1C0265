@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @R1C0265
-- 👀 I’m interested in Java, PHP, JS and anything tech.
-- 🌱 I’m currently learning Python[Django]
-- 💞️ I’m looking to collaborate on websites, webapps, native apps both on mobile and desktop
-- 📫 How to reach me ...ericzkabambe@gmail.com..always online
+# Eric Kabambe
 
+Full-stack developer building web applications with Laravel/Spring Boot backends and React.js/Vue.js frontends.
 
+## Current Focus
+- Expanding my React.js expertise through hands-on projects
+- Exploring mobile and desktop application development
+
+## Tech Stack
+- **Backend:** Laravel, Spring Boot
+- **Frontend:** React.js, Vue.js, Bootstrap
+- **Interested in:** Full-stack development, progressive web apps, cross-platform solutions
+
+## Let's Collaborate
+I'm open to contributing to web, mobile, and desktop application projects. If you're working on something interesting, let's connect!
+
+📧 ericzkabambe@gmail.com
